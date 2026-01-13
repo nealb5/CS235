@@ -1,0 +1,5 @@
+C:/Users/Neal/CLionProjects/CS235/Homework1a/cmake-build-debug/CMakeFiles/numbers_divisible_by.dir
+C:/Users/Neal/CLionProjects/CS235/Homework1a/cmake-build-debug/CMakeFiles/collatz.dir
+C:/Users/Neal/CLionProjects/CS235/Homework1a/cmake-build-debug/CMakeFiles/sqrt.dir
+C:/Users/Neal/CLionProjects/CS235/Homework1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Neal/CLionProjects/CS235/Homework1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
